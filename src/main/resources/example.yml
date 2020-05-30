@@ -1,0 +1,37 @@
+#this is a comment
+
+name:  John
+
+names: #Comment
+  - Zhatab
+  - Aftab
+  - SHan
+
+pound_sign: "#"
+
+book:
+  author: Zhatab Saifi
+  publisher: journy from zero to infinity
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #NO,false, FALSE
+
+string_val: "This is my program"
+
+colon_string: "My couse: one two three"
+
+include_new_lines: |
+  zhtadshbhs dhbd
+  jdcj
+  cjdncj
+  ncjd
+
+ignore_new_lines: >
+  this is
+  just one long
+  string
