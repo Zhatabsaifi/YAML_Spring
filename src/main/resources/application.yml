@@ -3,3 +3,11 @@ guru:
     username: Shan
     password: shan pan
     url: ajmal bhai
+
+---   #indicate file separator
+spring:
+  profiles: de
+  # this profile override this property
+guru:
+  jms:
+    username: Shan Bhai $$$$$$
